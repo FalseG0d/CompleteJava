@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 All these programs are made by me without any monetary support nor have I recieved any payment for any one of them. They are free to be used.
 
-* **Special Thanks** - *Graphics Design* - Most of the graphics in the game are made by me or are free to use so I will like to personally thank any and all creators because of whom I could bring these games in existence, If by any chance I have used anyone's work which they would rather not have allowed me to use kindly reach out to me, I will take these game off.
+* **Special Thanks** - *Graphics Design* - Most of the graphics used in github here are made by me or are free to use so I will like to personally thank any and all creators because of whom I could make these programs or make the documentation files more informative, If by any chance I have used anyone's work which they would rather not have allowed me to use kindly reach out to me, I will take them off.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
