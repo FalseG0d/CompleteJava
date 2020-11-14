@@ -6,7 +6,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-# Unity Builds
+# Complete Java
 
 <!-- PROJECT LOGO -->
 <br />
@@ -18,7 +18,7 @@
   <h3 align="center">Made By <a href="https://github.com/FalseG0d">FalseG0d</a></h3>
 
   <p align="center">
-    This is the git repository for the course on Java. I contains all the code or documentation for the Lectures that are being provided to you. Feel free to refer to the code and documentation but try to implement each code yourself to maximize the course output.
+    This is the git repository for the course on Java. I contains all the code or documentation for the Lectures that are being provided to you. Feel free to refer to the code and documentation but try to implement each code yourself to maximize the course output. <br><br>This is the git repository for the course on Java. I contains all the code or documentation for the Lectures that are being provided to you. Feel free to refer to the code and documentation but try to implement each code yourself to maximize the course output.
     <br />
     <a href="https://falseg0d.itch.io/"><strong>View Official Itch Page »</strong></a>
     <br />
